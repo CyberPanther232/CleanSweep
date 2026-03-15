@@ -1,4 +1,4 @@
-![repo-logo](https://github.com/CyberPanther232/CleanSweep/blob/master/images/cleansweep_logo.png)
+<img src="https://github.com/CyberPanther232/CleanSweep/blob/master/images/cleansweep_logo.png" width="300" height="200" alt="Repository Logo">
 
 # CleanSweep
 
