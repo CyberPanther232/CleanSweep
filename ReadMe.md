@@ -1,4 +1,4 @@
-
+![repo-logo](https://github.com/CyberPanther232/CleanSweep/blob/master/images/cleansweep_logo.png)
 
 # CleanSweep
 
